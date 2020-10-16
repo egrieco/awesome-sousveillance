@@ -15,3 +15,9 @@ Inverse surveillance is a subset of sousveillance with a particular emphasis on 
 * [Who Targets Me?](https://whotargets.me/en/) ([source code](https://github.com/WhoTargetsMe/Who-Targets-Me)): A browser extension that tracks which entities are targeting which demographics with adverts.
 * [Exodus Privacy](https://exodus-privacy.eu.org/en/page/what/) ([GitHub](https://github.com/Exodus-Privacy)): εxodus analyses Android applications. It looks for embedded trackers and lists them.
 * [Blacklight](https://themarkup.org/blacklight/): Scans websites and reveals the specific user-tracking technologies on the site.
+
+### WebExtensions
+
+* [Mozilla Lightbeam](https://github.com/mozilla/lightbeam-we): Firefox Lightbeam add-on for visualizing HTTP requests between websites in real time.
+* [uBO-Scope](https://github.com/gorhill/uBO-Scope): A tool to measure over time your own exposure to third parties on the web.
+* [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) ([source code](https://github.com/propublica/facebook-political-ads)): Browser extension to help ProPublica collect political advertising on Facebook.
