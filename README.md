@@ -21,6 +21,7 @@ Inverse surveillance is a subset of sousveillance with a particular emphasis on 
 * [Who Targets Me?](https://whotargets.me/en/) ([source code](https://github.com/WhoTargetsMe/Who-Targets-Me)): A browser extension that tracks which entities are targeting which demographics with adverts.
 * [Exodus Privacy](https://exodus-privacy.eu.org/en/page/what/) ([GitHub](https://github.com/Exodus-Privacy)): εxodus analyses Android applications. It looks for embedded trackers and lists them.
 * [Blacklight](https://themarkup.org/blacklight/): Scans websites and reveals the specific user-tracking technologies on the site.
+* [FouAnalytics - Ads By Domain](https://adsbydomain.fouanalytics.com/)
 
 ### WebExtensions
 
