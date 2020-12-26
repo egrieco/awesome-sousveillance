@@ -14,6 +14,11 @@ Sousveillance (/suːˈveɪləns/ soo-VAY-lənss) is the recording of an activity
 
 Inverse surveillance is a subset of sousveillance with a particular emphasis on the "watchful vigilance from underneath" and a form of surveillance inquiry or legal protection involving the recording, monitoring, study, or analysis of surveillance systems, proponents of surveillance, and possibly also recordings of authority figures and their actions.
 
+### Articles
+
+* [The Sousveillance Scenarios | Steve Mann's Blog](http://eyetap.blogspot.com/2012/10/the-sousveillance-scenarios.html)
+* [McVeillance: McDonaldized surveillance as a monopolization of sight](http://wearcam.org/mcveillance)
+
 ## Sousveillance Tools
 
 ### Websites
