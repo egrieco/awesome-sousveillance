@@ -53,3 +53,7 @@ AdNauseam is a lightweight browser extension that blends software tool and artwa
 
 * [Website](https://adnauseam.io/)
 * [Source Code](https://github.com/dhowe/AdNauseam/)
+
+## Counter Surveillance
+
+* [Adam Harvey's Projects](https://ahprojects.com/projects/)
