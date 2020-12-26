@@ -33,3 +33,23 @@ Inverse surveillance is a subset of sousveillance with a particular emphasis on 
 * [Mozilla Lightbeam](https://github.com/mozilla/lightbeam-we): Firefox Lightbeam add-on for visualizing HTTP requests between websites in real time.
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope): A tool to measure over time your own exposure to third parties on the web.
 * [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) ([source code](https://github.com/propublica/facebook-political-ads)): Browser extension to help ProPublica collect political advertising on Facebook.
+
+## Ad Chaffing
+
+Chaffing is the practice of adding noise to datasets to hide or obscure activity.
+
+**WARNING**: Running ad chaffers carries security –and potentially legal– risks. DO NOT RUN these without fully understanding these risks.
+
+### TrackMeNot
+
+An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
+
+* [Website](https://cs.nyu.edu/trackmenot/)
+* [Source Code](https://github.com/vtoubiana/TrackMeNot)
+
+### AdNauseam
+
+AdNauseam is a lightweight browser extension that blends software tool and artware intervention to actively fight back against tracking by advertising networks. AdNauseam works like an ad-blocker (it is built atop [uBlock Origin](https://github.com/gorhill/uBlock)) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests. At the same time, AdNauseam serves as a means of amplifying discontent with advertising networks that disregard privacy and enable bulk surveillance.
+
+* [Website](https://adnauseam.io/)
+* [Source Code](https://github.com/dhowe/AdNauseam/)
