@@ -57,3 +57,4 @@ AdNauseam is a lightweight browser extension that blends software tool and artwa
 ## Counter Surveillance
 
 * [Adam Harvey's Projects](https://ahprojects.com/projects/)
+* [Flock Locations](https://flocklocations.com/): Community-maintained map and database of Flock Safety ALPR camera locations in the United States.
